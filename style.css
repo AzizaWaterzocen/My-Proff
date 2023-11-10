@@ -1,0 +1,29 @@
+body{
+    background-image: url(Amuka.jpg);
+    color: goldenrod;
+    background-size: cover;
+}
+div{
+    background-color: blueviolet;
+    color: azure;
+}
+p{
+    background-color: blue;
+    color: beige;
+}
+.h1{
+    background-color: peru;
+    color: blue;
+}
+image{
+    width: 1000px;
+    height: 600px;
+    float: left;
+}
+.images{
+    float: right;
+}
+.carption{
+    background-color: blueviolet;
+    color: goldenrod;
+}
